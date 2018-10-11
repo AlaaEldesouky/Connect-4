@@ -1,0 +1,48 @@
+﻿html,body {
+	overflow: hidden;
+    background-image:url(after.jpg);
+    
+    }
+
+
+.imgholder {
+	position: absolute;
+    left: -28px;
+    top: -8px;
+	margin-left: 359px;
+}
+ td>button {
+    z-index:4000;
+	width: 75px;
+	height: 75px;
+	position: relative;
+	border: none;
+    margin-left:2.3px;
+    margin-right:2.7px;
+    background-color:transparent;
+}
+ 
+
+#board{
+	height: 80px;
+    margin-top: 102px;
+    margin-left: 351px;
+    margin-bottom:50px;  
+}
+
+#reset {
+	top: 350px;
+    padding: 0;
+  right: 250px;
+    left: inherit;
+    position: absolute;
+}
+
+
+#options {
+   left:inherit;
+   right:150px;
+   top:370px;
+   position: absolute;
+   cursor:pointer;
+}     
